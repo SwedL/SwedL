@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30"> from Russia.
+- :telescope: I work as a software engineer and develop web applications for automating business processes and tasks.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](t.me/swed555)
