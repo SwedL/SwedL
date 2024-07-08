@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### :man_technologist: About Me :
+I am a Web Developer <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30"> from Russia.
