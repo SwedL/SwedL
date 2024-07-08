@@ -23,4 +23,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](t.me/swed555)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
