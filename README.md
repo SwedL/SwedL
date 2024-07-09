@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - :zap: В свободное время, решаю задачи на Leetcode, Codewars, читаю техническую литературу.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
+- :mailbox:Всегда на связи: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
