@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет 👋
 
 <!--
 **SwedL/SwedL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30"> from Russia.
-- :telescope: I work as a software engineer and develop web applications for automating business processes and tasks.
+### :man_technologist: Обо мне:
+Я Python разработчик <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30">.
+- :telescope: Я работаю инженером-программистом, разрабатываю веб-приложения и телеграм-боты для автоматизации бизнес-процессов и задач.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Постоянно изучаю новое в IT сфере и стараюсь применить полученные навыки в своих проектах.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: В свободное время, решаю задачи на Leetcode, Codewars, читаю техническую литературу.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
