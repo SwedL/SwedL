@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: Статистика :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swedl&theme=deuteranopia-friendly-theme&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swedl&theme=hacker&hide_border=true)](https://git.io/streak-stats)
