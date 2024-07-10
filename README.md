@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ### :fire: Статистика :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swedl&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swedl&theme=algolia&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swedl&theme=github_dark&hide_border=true&layout=compact)
