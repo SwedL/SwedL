@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - :zap: В свободное время, решаю задачи на Leetcode, Codewars, читаю техническую литературу.
 
 - :mailbox:Всегда на связи: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=swedl&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
