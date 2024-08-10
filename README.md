@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 :books: МОИ ПРОЕКТЫ:
 
-<a href="/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.
+<a href="https://github.com/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.
