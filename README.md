@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swedl&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swedl&theme=github_dark&hide_border=true&layout=compact)
 
-:books МОИ ПРОЕКТЫ:
+:books: МОИ ПРОЕКТЫ:
 
-<a href="/SwedL/aquamarine">aquamarine</a> - Web-приложение онлайн записи клиентов на услуги автомоечного комплекса и администрирования работы компании.
+<a href="/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.
