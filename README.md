@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 :books: МОИ ПРОЕКТЫ:
 
-<a href="https://github.com/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.
-
-<a href="https://github.com/SwedL/industrial-company">industrial-company</a> - Web-приложение автоматизации работы HR отдела крупной промышленной компании.
+<a href="https://github.com/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.<br>
+<a href="https://github.com/SwedL/industrial-company">industrial-company</a> - Web-приложение автоматизации работы HR отдела крупной промышленной компании.<br>
+<a href="https://github.com/SwedL/iz_news_bot">iz_news_bot</a> - Телеграм бот администрирования новостного канала.
