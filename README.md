@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 - :mailbox:Всегда на связи: [![Telegram Badge](https://img.shields.io/badge/-@swed555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swed555)
 
 ---
+### Языки и технологии:
+<p align="center">
+   <img src="https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<!--    <img src="https://img.shields.io/badge/Django-4.2.6-E86F00" alt="Django Version"> -->
+</p>
+
 
 ### :fire: Статистика :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swedl&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
