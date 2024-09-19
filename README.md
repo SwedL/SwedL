@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/SwedL/industrial-company">industrial-company</a> - Web-приложение автоматизации работы HR отдела крупной промышленной компании.
 
+<a href="https://github.com/SwedL/ydisk_app">ydisk_app</a> - WEB-приложение предоставляет возможность взаимодействия с API Яндекс.Диска.
+Просмотр и скачивание файлов по публичной ссылке.
+
 <a href="https://github.com/SwedL/iz_news_bot">iz_news_bot</a> - Телеграм бот администрирования новостного канала.
 
 <a href="https://github.com/SwedL/weather">weather</a> - WEB-приложение предоставляет возможность получить прогноз погоды на неделю, для любого города.
