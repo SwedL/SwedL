@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ### Языки и технологии:
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://disk.yandex.ru/i/bh4YW9pHtVmqCw" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/DRF-2C2C2C?style=for-the-badge&logo=DRF&logoColor=red" title="DRF" alt="DRF" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line-wordmark.svg" title="DRF" alt="DRF" width="40" height="40"/>&nbsp; -->
