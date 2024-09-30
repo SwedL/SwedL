@@ -1,5 +1,3 @@
-![image title](https://rushter.com/counter.svg)
-
 ## Привет 👋, меня зовут Алексей!
 
 <!--
