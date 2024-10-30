@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/SwedL/aquamarine">aquamarine</a> - Web-приложение автоматизации работы автомоечного комплекса.
 
-<a href="https://github.com/SwedL/industrial-company">industrial-company</a> - Web-приложение автоматизации работы HR отдела промышленной компании.
+<a href="https://github.com/SwedL/industrial-company">industrial-company</a> - Web-приложение автоматизации работы отдела кадров промышленной компании.
 
 <a href="https://github.com/SwedL/ydisk_app">ydisk_app</a> - WEB-приложение предоставляет возможность взаимодействия с API Яндекс.Диска.
 Просмотр и скачивание файлов по публичной ссылке.
