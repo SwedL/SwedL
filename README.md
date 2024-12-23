@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :man_technologist: Обо мне:
+### Обо мне:
 Я Python разработчик <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30">.
 - Разрабатываю веб-приложения и телеграм-боты для автоматизации бизнес-процессов и задач.
 
