@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### :man_technologist: Обо мне:
 Я Python разработчик <img src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif" width="30">.
-- :telescope: Разрабатываю веб-приложения и телеграм-боты для автоматизации бизнес-процессов и задач.
+- Разрабатываю веб-приложения и телеграм-боты для автоматизации бизнес-процессов и задач.
 
-- :seedling: Постоянно изучаю новое в IT сфере и стараюсь применить полученные навыки в своих проектах.
+- Постоянно изучаю новое в IT сфере и стараюсь применить полученные навыки в своих проектах.
 
-- :zap: В свободное время, решаю задачи на Leetcode, Codewars, читаю техническую литературу.
+- В свободное время, решаю задачи на Leetcode, Codewars, читаю техническую литературу.
 
-- :mailbox:Всегда на связи: [![Telegram Badge](https://img.shields.io/badge/-@osminin555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/osminin555)
+- Всегда на связи: [![Telegram Badge](https://img.shields.io/badge/-@osminin555-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/osminin555)
 
 ---
 ### Языки и технологии:
